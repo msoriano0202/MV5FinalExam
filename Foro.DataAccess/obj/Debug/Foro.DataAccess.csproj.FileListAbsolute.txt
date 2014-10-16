@@ -1,0 +1,12 @@
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.DataAccess\bin\Debug\Foro.DataAccess.dll
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.DataAccess\bin\Debug\Foro.DataAccess.pdb
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.DataAccess\obj\Debug\Foro.DataAccess.dll
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.DataAccess\obj\Debug\Foro.DataAccess.pdb
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.DataAccess\bin\Debug\Foro.DataAccess.dll.config
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.DataAccess\bin\Debug\EntityFramework.dll
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.DataAccess\bin\Debug\Foro.Entity.dll
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.DataAccess\bin\Debug\Foro.Entity.pdb
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.DataAccess\bin\Debug\EntityFramework.xml
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.DataAccess\obj\Debug\Foro.DataAccess.csprojResolveAssemblyReference.cache

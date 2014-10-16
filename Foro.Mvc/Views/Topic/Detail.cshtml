@@ -1,0 +1,53 @@
+﻿@model Foro.Mvc.Models.Topics.TopicDetailViewModel
+
+@{
+    ViewBag.Title = "Detail";
+}
+
+<div style="margin: 30px 0 0 0">
+    <div style="font-size:26px; color:#2A7CC0">
+        @Html.DisplayFor(model => model.Title)
+    </div>
+    <div style="margin: 0 0 15px 0;">
+        <b>User:</b> @Html.DisplayFor(model => model.UserName) |
+        <b>Date:</b> @Html.DisplayFor(model => model.CreationDateTimeString)
+    </div>
+    <div>
+        @Html.DisplayFor(model => model.Description)
+    </div>
+</div>
+@foreach (var item in Model.Entries) 
+{
+    <hr />
+    <div>
+        <div style="margin: 0 0 5px 0;">
+            <b>User:</b> @item.UserName |
+            <b>Date:</b> @item.CreationDateTimeString
+        </div>
+        <div>@item.Comment</div>
+    </div> 
+}
+
+@using (Html.BeginForm("AddEntry", "Topic", FormMethod.Post))
+{
+    <br />
+    if (Request.IsAuthenticated)
+    {
+        <br />
+        <div>
+            <b>Add Entry</b>
+            <br />
+            @Html.Hidden("TopicId", Model.Id)
+            @Html.TextArea("EntryComent", new { style = "width: 100%" })
+            @Html.ValidationMessageFor(model => model.Title, "", new { @class = "text-danger" })
+            <br /><br />
+            <input type="submit" value="Add Entry" class="btn btn-default" />
+        </div>
+    }
+}
+
+
+<br />
+<p>
+    @Html.ActionLink("<< Back to Topics", "Index")
+</p>

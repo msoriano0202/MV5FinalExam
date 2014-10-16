@@ -1,0 +1,16 @@
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Business\bin\Debug\Foro.Business.dll
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Business\bin\Debug\Foro.Business.pdb
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Business\obj\Debug\Foro.Business.dll
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Business\obj\Debug\Foro.Business.pdb
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Business\bin\Debug\Foro.DataAccess.dll
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Business\bin\Debug\Foro.Dto.dll
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Business\bin\Debug\Foro.Entity.dll
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Business\bin\Debug\EntityFramework.dll
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Business\bin\Debug\Foro.DataAccess.pdb
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Business\bin\Debug\Foro.Dto.pdb
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Business\bin\Debug\Foro.Entity.pdb
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Business\bin\Debug\EntityFramework.xml
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Business\obj\Debug\Foro.Business.csprojResolveAssemblyReference.cache
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Business\bin\Debug\Foro.Business.dll.config
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Business\bin\Debug\EntityFramework.SqlServer.dll
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Business\bin\Debug\EntityFramework.SqlServer.xml

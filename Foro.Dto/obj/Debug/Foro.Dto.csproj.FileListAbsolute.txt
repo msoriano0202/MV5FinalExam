@@ -1,0 +1,9 @@
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Dto\bin\Debug\Foro.Dto.dll
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Dto\bin\Debug\Foro.Dto.pdb
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Dto\obj\Debug\Foro.Dto.dll
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Dto\obj\Debug\Foro.Dto.pdb
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Dto\bin\Debug\Foro.Dto.dll.config
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Dto\bin\Debug\EntityFramework.dll
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Dto\bin\Debug\EntityFramework.SqlServer.dll
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Dto\bin\Debug\EntityFramework.xml
+D:\PERSONAL\MVC5\ExamenFinal\ForoSolution\Foro.Dto\bin\Debug\EntityFramework.SqlServer.xml

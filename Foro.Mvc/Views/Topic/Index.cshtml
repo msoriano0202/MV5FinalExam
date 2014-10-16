@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Foro.Mvc.Models.Topics.TopicShortViewModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Topic List</h2>
+
+@if (Request.IsAuthenticated)
+{
+    @Html.ActionLink("Add New Topic", "Create", null, new { @style = "margin: 0 0 0 5px;" })
+    <br /><br />
+}
+
+<table class="table">
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <div style="font-size:large; margin: 0 0 8px 0;">
+                    @Html.ActionLink(item.Title, "Detail", "Topic", new { id = item.Id }, null)
+                </div>
+                <div style="margin: 0 0 8px 0;">
+                    @Html.DisplayFor(modelItem => item.ShortDescription)
+                </div>
+                <div style="margin: 0 0 7px 0;">
+                    <b>User:</b> @Html.DisplayFor(modelItem => item.UserName) | 
+                    <b>Date:</b> @Html.DisplayFor(modelItem => item.CreationDateTimeString)
+                </div>
+            </td>
+        </tr>
+    }
+</table>
+
+@if (Request.IsAuthenticated)
+{
+    @Html.ActionLink("Add New Topic", "Create", null, new { @style = "margin: 0 0 0 5px;" })
+    <br /><br />
+}
